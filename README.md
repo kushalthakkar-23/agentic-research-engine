@@ -56,4 +56,4 @@ The agent executes as a stateful directed graph (ReportCopilotState) using LangG
 
 - Evaluation Report & Failure Analysis: [EVALUATION.md](EVALUATION.md)
 - Engineering Roadmap: [WHAT_I_WOULD_DO_WITH_ONE_MORE_WEEK.md](WHAT_I_WOULD_DO_WITH_ONE_MORE_WEEK.md)
-- Demo Video Walkthrough: [Watch the 3-5 Minute Demo Video](PASTE_YOUR_LINK_HERE)
+- Demo Video Walkthrough: [Watch the 3-5 Minute Demo Video](https://drive.google.com/file/d/1AyU8pnaE0w6GJulqsAxVs89kO19TZ2Yp/view?usp=drive_link)
