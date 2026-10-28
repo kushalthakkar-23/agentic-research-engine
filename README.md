@@ -1,6 +1,6 @@
-# Project Atlas: Market Intelligence Report Copilot
+# agentic-research-engine: Market Intelligence Report Copilot
 
-Project Atlas is an enterprise-grade AI copilot designed to parse, analyze, and synthesize proprietary market research intelligence. The system enforces tenant-level access entitlements, blocks adversarial prompt injections, deterministically handles conflicting market report scopes, executes compound annual growth rate (CAGR) projections, and triggers analyst escalation tickets when queries exceed verified forecast horizons.
+Agentic-research-engine is an enterprise-grade AI copilot designed to parse, analyze, and synthesize proprietary market research intelligence. The system enforces tenant-level access entitlements, blocks adversarial prompt injections, deterministically handles conflicting market report scopes, executes compound annual growth rate (CAGR) projections, and triggers analyst escalation tickets when queries exceed verified forecast horizons.
 
 ---
 
